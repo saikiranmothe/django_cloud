@@ -1,7 +1,7 @@
 django_cloud (My Learing Platform)
 ============
  
-== Django WorkBook
+Django WorkBook
 ============
 
 Django Installation
@@ -23,5 +23,12 @@ Create a Django Application
 	3.easy_install Django
 
 	4.django admin.py startproject projectname/modulename
+	
+	=cd projectname/modulename
+	
+	5.python manage.py runserver  --- to run server 
 
-	5.python manage.py runserver
+
+Play With settings.py (Settings,Database Configurations,time Zone settings,)
+==============================
+	
